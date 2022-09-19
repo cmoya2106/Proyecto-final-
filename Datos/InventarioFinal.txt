@@ -1,0 +1,11 @@
+
+1     Micro sd kingston 32gb C1 10 10.000000 100.000000
+2    Micro sd kingston 64GB C2 15 15.000000 225.000000
+3    Memoria Ram 4gb ddr4 C3 5 20.000000 100.000000
+4    Memoria Ram 8gb ddr4 C4 5 30.000000 150.000000
+5   Tajeta Madre h510m C5 19 410.000000 7790.000000
+6   Monitor Samsung 24pulg C6 20 159.000000 3180.000000
+7   Monitor hp 19pulg C7 25 209.000000 5225.000000
+8   Disco sdd 250gb C8 35 350.000000 12250.000000
+9   Disco duro Mecanico 500gb C9 35 200.000000 7000.000000
+10 Disco msi 27 pul C10 40 400.000000 16000.000000
